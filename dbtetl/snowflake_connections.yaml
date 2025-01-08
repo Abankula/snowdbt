@@ -1,0 +1,6 @@
+user: dbtadmin
+account: bsb95345
+warehouse: ETL_DEV
+database: SNOWFLAKE
+schema: PUBLIC
+role: SECURITYADMIN
